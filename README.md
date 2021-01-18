@@ -1,5 +1,5 @@
 # dwm-bar
 Status Bar
 
-Dependency
+Dependency : 
 awesome-fonts
