@@ -2,5 +2,4 @@
 Status Bar
 
 Dependency
-
 awesome-fonts
